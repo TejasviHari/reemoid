@@ -1,0 +1,53 @@
+body{
+    font-family: 'Girassol', cursive;
+    background-color: #A03E99;
+}
+
+.header{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px grey;
+background-color: #30011E;
+color: white;
+}
+
+.hdiv{
+    float: none;
+    box-shadow: 5px 5px 5px grey;
+    background: white;
+    color: black;
+    padding: 10px;
+    border-radius: 30px;
+    font-size: 17px;
+}
+
+.hdiv2{
+    font-size: 18px;
+    margin-top: 0px;
+}
+
+.result_para_tag{
+    box-shadow: 5px 5px 5px grey;
+    font-size: 19px;
+    
+}
+
+.copy-right-footer{
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    line-height: 3;
+    font-size: 13px;
+    color: black;
+    background-color: #D7FCD4;
+    font-weight: bold;
+    height: 26px;
+}
+
+canvas{
+    border-radius: 20px;
+    border: 5px solid #9893DA;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 10px;
+}
